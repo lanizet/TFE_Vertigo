@@ -1,4 +1,5 @@
 # TFE_Vertigo
+_Anizet Laura and Doyen Astrid_
 
 In this GitHub repository, you can find all the scritps used in the framework of our master thesis about : "Biomarker identification for vertigo through human connectome analysis".
 
