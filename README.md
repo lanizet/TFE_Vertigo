@@ -8,20 +8,20 @@ For each type of data, a specific pipeline was followed. The scripts used in the
 Here below are described the pipelines followed for both types of data:
 
 ## Structural pipeline :
-  Preprocessing
-  Registration
-  Tractogrammes
-  Connectomes
-  Network measures from connectomes
-  Features table creation from connectomes
-  Prefiltering feature selection
-  Wrapped feature selection
+  * Preprocessing
+  * Registration
+  * Tractogrammes
+  * Connectomes
+  * Network measures from connectomes
+  * Features table creation from connectomes
+  * Prefiltering feature selection
+  * Wrapped feature selection
   
 ## Functional pipeline :
-  Preprocessing
-  Registration
-  Connectomes
-  Network measures from connectomes
-  Features table creation from connectomes
-  Prefiltering feature selection
-  Wrapped feature selection
+  * Preprocessing
+  * Registration
+  * Connectomes
+  * Network measures from connectomes
+  * Features table creation from connectomes
+  * Prefiltering feature selection
+  * Wrapped feature selection
