@@ -8,7 +8,7 @@ For each type of data, a specific pipeline was followed. The scripts used in the
 Here below are described the pipelines followed for both types of data:
 
 Structural pipeline :
-  Preprocessing
+  Preprocessing \\
   Registration
   Tractogrammes
   Connectomes
