@@ -7,8 +7,8 @@ For each type of data, a specific pipeline was followed. The scripts used in the
 
 Here below are described the pipelines followed for both types of data:
 
-Structural pipeline :
-  Preprocessing \\
+## Structural pipeline :
+  Preprocessing
   Registration
   Tractogrammes
   Connectomes
@@ -17,7 +17,7 @@ Structural pipeline :
   Prefiltering feature selection
   Wrapped feature selection
   
-Functional pipeline :
+## Functional pipeline :
   Preprocessing
   Registration
   Connectomes
