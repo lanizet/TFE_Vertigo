@@ -21,7 +21,7 @@ import networkx as nx
 
 path = "/CECI/proj/pilab/PermeableAccess/vertige_LEWuQhzYs9/"
 
-#Divisons of te patients in the three groups (Control, vertigo and compensated)
+#Divisons of the patients in the three groups (Control, vertigo and compensated)
 #----------------------------------------------------------------------------
 patients_sains = ["H_"+str(_) for _ in range(7)]
 patients_vertiges = ["V_"+str(_) for _ in range(12)] + ["V_"+str(_) for _ in range(13,31)] + ["V_"+str(_) for _ in range(32,54)] 
